@@ -1,4 +1,5 @@
 server:
   port: 8002
   
-message: This is dev profile.
+dev:
+  message: This is dev profile.
