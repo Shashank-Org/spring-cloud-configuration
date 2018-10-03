@@ -1,4 +1,4 @@
 
 spring:
   application:
-    name: netflix-zuul-api-gateway-server
+    name: eureka-naming-server
