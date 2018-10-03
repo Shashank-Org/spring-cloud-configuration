@@ -3,5 +3,5 @@ spring:
     name: limits-service
     
 limits:
-  minimum: 100
-  maximum: 1000
+  minimum: 99
+  maximum: 999
