@@ -5,3 +5,8 @@ spring:
 limits:
   minimum: 99
   maximum: 999
+  
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761
