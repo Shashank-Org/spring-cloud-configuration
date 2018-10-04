@@ -2,13 +2,7 @@
 spring:
   application:
     name: currency-convertor-service
-    
-6
-server:
-7
-  port: 8010
-8
-  
+
 eureka:
   client:
     service-url:
