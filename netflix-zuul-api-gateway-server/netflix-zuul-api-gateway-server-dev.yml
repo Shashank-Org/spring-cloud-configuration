@@ -13,6 +13,4 @@ zuul:
       path: /auth/**
       service-id: AUTH-SERVICE
       strip-prefix: false
-      sensitive-headers:
-        - Cookie
-        - Set-Cookie
+      sensitive-headers: Cookie,Set-Cookie
